@@ -27,7 +27,7 @@
     position: relative;
     width: 390px;
     padding: 20px;
-
+    z-index: -1;
 }
   
 .places .information {
