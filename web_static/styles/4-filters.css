@@ -3,6 +3,7 @@
         height: 70px;
         width: 100%;
         border: 1px solid #DDDDDD;
+	margin: 30px;
         border-radius: 4px;
 }
 .filters button{
